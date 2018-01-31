@@ -1,13 +1,29 @@
 main{
   width: 300px;
   margin: 0 auto;
+  text-align: center;
+  color: #e06d16;
+  font-family: sans-serif;
 }
+
 ul {
   list-style: none;
   text-align: center;
 }
 
-input{
+p {
+  font-size: 20px;
+}
+
+li {
+  border: solid;
+  border-width: medium;
+  border-color: #e06d16;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+/* input{
   padding: 10px;
   border-radius: 5px;
   width: 400px;
@@ -17,4 +33,4 @@ input{
 
 .album{
   padding: 5px;
-}
+} */
