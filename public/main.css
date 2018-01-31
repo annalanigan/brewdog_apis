@@ -2,6 +2,10 @@ main{
   width: 300px;
   margin: 0 auto;
 }
+ul {
+  list-style: none;
+  text-align: center;
+}
 
 input{
   padding: 10px;
@@ -14,4 +18,3 @@ input{
 .album{
   padding: 5px;
 }
-
